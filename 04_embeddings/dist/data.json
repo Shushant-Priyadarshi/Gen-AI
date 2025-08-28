@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "The Godfather",
+    "description": "A classic crime film about family, power, and loyalty in the mafia world.",
+    "tags": ["movie", "crime", "drama"]
+  },
+  {
+    "id": 2,
+    "title": "Pizza Margherita",
+    "description": "A traditional Italian pizza topped with fresh tomatoes, mozzarella, and basil.",
+    "tags": ["food", "italian", "pizza"]
+  },
+  {
+    "id": 3,
+    "title": "Yoga",
+    "description": "A practice involving physical postures, breathing techniques, and meditation for health and relaxation.",
+    "tags": ["fitness", "wellness", "exercise"]
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter",
+    "description": "A fantasy book series about a young wizard and his adventures at Hogwarts School of Witchcraft and Wizardry.",
+    "tags": ["book", "fantasy", "magic"]
+  },
+  {
+    "id": 5,
+    "title": "Avengers: Endgame",
+    "description": "A superhero film where Marvel characters unite to defeat Thanos and save the universe.",
+    "tags": ["movie", "superhero", "action"]
+  },
+  {
+    "id": 6,
+    "title": "Sushi",
+    "description": "A Japanese dish consisting of vinegared rice served with raw fish, vegetables, or egg.",
+    "tags": ["food", "japanese", "sushi"]
+  },
+  {
+    "id": 7,
+    "title": "Football",
+    "description": "A popular team sport played worldwide, also known as soccer in some countries.",
+    "tags": ["sports", "outdoor", "team"]
+  },
+  {
+    "id": 8,
+    "title": "The Beatles",
+    "description": "A legendary British rock band known for songs like 'Hey Jude' and 'Let It Be'.",
+    "tags": ["music", "band", "rock"]
+  },
+  {
+    "id": 9,
+    "title": "Ice Cream",
+    "description": "A frozen dessert available in many flavors like vanilla, chocolate, and strawberry.",
+    "tags": ["dessert", "sweet", "food"]
+  },
+  {
+    "id": 10,
+    "title": "Paris",
+    "description": "The capital of France, famous for the Eiffel Tower, art museums, and romantic atmosphere.",
+    "tags": ["travel", "city", "france"]
+  },
+  {
+    "id": 11,
+    "title": "Cricket",
+    "description": "A bat-and-ball sport popular in countries like India, England, and Australia.",
+    "tags": ["sports", "team", "outdoor"]
+  },
+  {
+    "id": 12,
+    "title": "Game of Thrones",
+    "description": "A fantasy TV series filled with political intrigue, dragons, and battles for the Iron Throne.",
+    "tags": ["tv series", "fantasy", "drama"]
+  },
+  {
+    "id": 13,
+    "title": "Coffee",
+    "description": "A popular beverage made from roasted coffee beans, often enjoyed in the morning.",
+    "tags": ["drink", "caffeine", "beverage"]
+  },
+  {
+    "id": 14,
+    "title": "Mount Everest",
+    "description": "The tallest mountain in the world, located in the Himalayas on the border of Nepal and China.",
+    "tags": ["travel", "nature", "mountain"]
+  },
+  {
+    "id": 15,
+    "title": "Guitar",
+    "description": "A string instrument commonly used in many music genres, from rock to classical.",
+    "tags": ["music", "instrument", "strings"]
+  }
+]
